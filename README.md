@@ -1,4 +1,4 @@
-# Tic Tac Toe
+# WEather App
 
 This is a game used to demonstrate my web dev skills.
 
